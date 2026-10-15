@@ -1,0 +1,8 @@
+# Microdados do Censo 2022 (acesso controlado): não podem ser compartilhados.
+microdados_censo_amostra_2022*.zip
+dados_rn/
+
+# Arquivos do RStudio e da sessão do R
+.Rproj.user/
+.Rhistory
+.RData
