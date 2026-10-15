@@ -72,5 +72,5 @@ sum(is.na(pessoas_rn$municipio))
 
 # Salvar -------------------------------------------------------------------
 
-dir.create("dados_rn", showWarnings = FALSE)
-write_rds(pessoas_rn, "dados_rn/pessoas_rn.rds")
+dir.create("rn/dados_rn", showWarnings = FALSE)
+write_rds(pessoas_rn, "rn/dados_rn/pessoas_rn.rds")

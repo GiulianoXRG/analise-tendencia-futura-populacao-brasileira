@@ -1,0 +1,1027 @@
+cod_uf,sigla,uf,grupo_idade,sexo,populacao,percentual
+12,AC,Acre,0-4,Homens,36174,4.36
+12,AC,Acre,0-4,Mulheres,34724,4.18
+12,AC,Acre,5-9,Homens,38282,4.61
+12,AC,Acre,5-9,Mulheres,36509,4.4
+12,AC,Acre,10-14,Homens,38671,4.66
+12,AC,Acre,10-14,Mulheres,37030,4.46
+12,AC,Acre,15-19,Homens,40340,4.86
+12,AC,Acre,15-19,Mulheres,38212,4.6
+12,AC,Acre,20-24,Homens,39230,4.73
+12,AC,Acre,20-24,Mulheres,38150,4.6
+12,AC,Acre,25-29,Homens,33939,4.09
+12,AC,Acre,25-29,Mulheres,34831,4.2
+12,AC,Acre,30-34,Homens,30767,3.71
+12,AC,Acre,30-34,Mulheres,31894,3.84
+12,AC,Acre,35-39,Homens,31027,3.74
+12,AC,Acre,35-39,Mulheres,32270,3.89
+12,AC,Acre,40-44,Homens,29565,3.56
+12,AC,Acre,40-44,Mulheres,30616,3.69
+12,AC,Acre,45-49,Homens,23882,2.88
+12,AC,Acre,45-49,Mulheres,24031,2.9
+12,AC,Acre,50-54,Homens,19708,2.37
+12,AC,Acre,50-54,Mulheres,19918,2.4
+12,AC,Acre,55-59,Homens,15561,1.87
+12,AC,Acre,55-59,Mulheres,16311,1.97
+12,AC,Acre,60-64,Homens,12606,1.52
+12,AC,Acre,60-64,Mulheres,13238,1.59
+12,AC,Acre,65-69,Homens,9741,1.17
+12,AC,Acre,65-69,Mulheres,9959,1.2
+12,AC,Acre,70-74,Homens,6777,0.82
+12,AC,Acre,70-74,Mulheres,7034,0.85
+12,AC,Acre,75-79,Homens,4440,0.53
+12,AC,Acre,75-79,Mulheres,4574,0.55
+12,AC,Acre,80-84,Homens,2592,0.31
+12,AC,Acre,80-84,Mulheres,3087,0.37
+12,AC,Acre,85-89,Homens,1200,0.14
+12,AC,Acre,85-89,Mulheres,1341,0.16
+12,AC,Acre,90+,Homens,829,0.1
+12,AC,Acre,90+,Mulheres,957,0.12
+27,AL,Alagoas,0-4,Homens,116602,3.73
+27,AL,Alagoas,0-4,Mulheres,112177,3.59
+27,AL,Alagoas,5-9,Homens,120061,3.84
+27,AL,Alagoas,5-9,Mulheres,114674,3.67
+27,AL,Alagoas,10-14,Homens,125372,4.01
+27,AL,Alagoas,10-14,Mulheres,121965,3.9
+27,AL,Alagoas,15-19,Homens,131412,4.2
+27,AL,Alagoas,15-19,Mulheres,127241,4.07
+27,AL,Alagoas,20-24,Homens,126830,4.06
+27,AL,Alagoas,20-24,Mulheres,131335,4.2
+27,AL,Alagoas,25-29,Homens,115937,3.71
+27,AL,Alagoas,25-29,Mulheres,127042,4.06
+27,AL,Alagoas,30-34,Homens,106585,3.41
+27,AL,Alagoas,30-34,Mulheres,122153,3.91
+27,AL,Alagoas,35-39,Homens,111887,3.58
+27,AL,Alagoas,35-39,Mulheres,127576,4.08
+27,AL,Alagoas,40-44,Homens,109276,3.49
+27,AL,Alagoas,40-44,Mulheres,122862,3.93
+27,AL,Alagoas,45-49,Homens,95734,3.06
+27,AL,Alagoas,45-49,Mulheres,109202,3.49
+27,AL,Alagoas,50-54,Homens,84178,2.69
+27,AL,Alagoas,50-54,Mulheres,97199,3.11
+27,AL,Alagoas,55-59,Homens,73799,2.36
+27,AL,Alagoas,55-59,Mulheres,87371,2.79
+27,AL,Alagoas,60-64,Homens,58661,1.88
+27,AL,Alagoas,60-64,Mulheres,71132,2.27
+27,AL,Alagoas,65-69,Homens,45135,1.44
+27,AL,Alagoas,65-69,Mulheres,55439,1.77
+27,AL,Alagoas,70-74,Homens,33365,1.07
+27,AL,Alagoas,70-74,Mulheres,41632,1.33
+27,AL,Alagoas,75-79,Homens,21146,0.68
+27,AL,Alagoas,75-79,Mulheres,27563,0.88
+27,AL,Alagoas,80-84,Homens,12506,0.4
+27,AL,Alagoas,80-84,Mulheres,18167,0.58
+27,AL,Alagoas,85-89,Homens,5497,0.18
+27,AL,Alagoas,85-89,Mulheres,9299,0.3
+27,AL,Alagoas,90+,Homens,3437,0.11
+27,AL,Alagoas,90+,Mulheres,6236,0.2
+13,AM,Amazonas,0-4,Homens,178805,4.54
+13,AM,Amazonas,0-4,Mulheres,173729,4.41
+13,AM,Amazonas,5-9,Homens,187885,4.77
+13,AM,Amazonas,5-9,Mulheres,181075,4.59
+13,AM,Amazonas,10-14,Homens,181479,4.6
+13,AM,Amazonas,10-14,Mulheres,174648,4.43
+13,AM,Amazonas,15-19,Homens,186703,4.74
+13,AM,Amazonas,15-19,Mulheres,180897,4.59
+13,AM,Amazonas,20-24,Homens,182149,4.62
+13,AM,Amazonas,20-24,Mulheres,180401,4.58
+13,AM,Amazonas,25-29,Homens,165612,4.2
+13,AM,Amazonas,25-29,Mulheres,167504,4.25
+13,AM,Amazonas,30-34,Homens,145458,3.69
+13,AM,Amazonas,30-34,Mulheres,150592,3.82
+13,AM,Amazonas,35-39,Homens,146728,3.72
+13,AM,Amazonas,35-39,Mulheres,152291,3.86
+13,AM,Amazonas,40-44,Homens,139893,3.55
+13,AM,Amazonas,40-44,Mulheres,142638,3.62
+13,AM,Amazonas,45-49,Homens,113303,2.87
+13,AM,Amazonas,45-49,Mulheres,114848,2.91
+13,AM,Amazonas,50-54,Homens,93862,2.38
+13,AM,Amazonas,50-54,Mulheres,93074,2.36
+13,AM,Amazonas,55-59,Homens,74648,1.89
+13,AM,Amazonas,55-59,Mulheres,76412,1.94
+13,AM,Amazonas,60-64,Homens,60439,1.53
+13,AM,Amazonas,60-64,Mulheres,63761,1.62
+13,AM,Amazonas,65-69,Homens,44915,1.14
+13,AM,Amazonas,65-69,Mulheres,47167,1.2
+13,AM,Amazonas,70-74,Homens,28953,0.73
+13,AM,Amazonas,70-74,Mulheres,31682,0.8
+13,AM,Amazonas,75-79,Homens,17262,0.44
+13,AM,Amazonas,75-79,Mulheres,20384,0.52
+13,AM,Amazonas,80-84,Homens,10169,0.26
+13,AM,Amazonas,80-84,Mulheres,13516,0.34
+13,AM,Amazonas,85-89,Homens,4782,0.12
+13,AM,Amazonas,85-89,Mulheres,6506,0.17
+13,AM,Amazonas,90+,Homens,2766,0.07
+13,AM,Amazonas,90+,Mulheres,4676,0.12
+16,AP,Amapá,0-4,Homens,33762,4.6
+16,AP,Amapá,0-4,Mulheres,32261,4.4
+16,AP,Amapá,5-9,Homens,34599,4.72
+16,AP,Amapá,5-9,Mulheres,33056,4.5
+16,AP,Amapá,10-14,Homens,33232,4.53
+16,AP,Amapá,10-14,Mulheres,31654,4.31
+16,AP,Amapá,15-19,Homens,34514,4.7
+16,AP,Amapá,15-19,Mulheres,33731,4.6
+16,AP,Amapá,20-24,Homens,35369,4.82
+16,AP,Amapá,20-24,Mulheres,34809,4.74
+16,AP,Amapá,25-29,Homens,30653,4.18
+16,AP,Amapá,25-29,Mulheres,31853,4.34
+16,AP,Amapá,30-34,Homens,28248,3.85
+16,AP,Amapá,30-34,Mulheres,29633,4.04
+16,AP,Amapá,35-39,Homens,27534,3.75
+16,AP,Amapá,35-39,Mulheres,29697,4.05
+16,AP,Amapá,40-44,Homens,25285,3.45
+16,AP,Amapá,40-44,Mulheres,26466,3.61
+16,AP,Amapá,45-49,Homens,20696,2.82
+16,AP,Amapá,45-49,Mulheres,21903,2.99
+16,AP,Amapá,50-54,Homens,17565,2.39
+16,AP,Amapá,50-54,Mulheres,17793,2.42
+16,AP,Amapá,55-59,Homens,13527,1.84
+16,AP,Amapá,55-59,Mulheres,14118,1.92
+16,AP,Amapá,60-64,Homens,10454,1.42
+16,AP,Amapá,60-64,Mulheres,11119,1.52
+16,AP,Amapá,65-69,Homens,7715,1.05
+16,AP,Amapá,65-69,Mulheres,8078,1.1
+16,AP,Amapá,70-74,Homens,4980,0.68
+16,AP,Amapá,70-74,Mulheres,5133,0.7
+16,AP,Amapá,75-79,Homens,3122,0.43
+16,AP,Amapá,75-79,Mulheres,3722,0.51
+16,AP,Amapá,80-84,Homens,1791,0.24
+16,AP,Amapá,80-84,Mulheres,2248,0.31
+16,AP,Amapá,85-89,Homens,945,0.13
+16,AP,Amapá,85-89,Mulheres,1150,0.16
+16,AP,Amapá,90+,Homens,525,0.07
+16,AP,Amapá,90+,Mulheres,819,0.11
+29,BA,Bahia,0-4,Homens,451374,3.19
+29,BA,Bahia,0-4,Mulheres,437536,3.09
+29,BA,Bahia,5-9,Homens,491590,3.48
+29,BA,Bahia,5-9,Mulheres,473436,3.35
+29,BA,Bahia,10-14,Homens,513803,3.63
+29,BA,Bahia,10-14,Mulheres,492590,3.48
+29,BA,Bahia,15-19,Homens,542831,3.84
+29,BA,Bahia,15-19,Mulheres,526630,3.72
+29,BA,Bahia,20-24,Homens,536934,3.8
+29,BA,Bahia,20-24,Mulheres,547231,3.87
+29,BA,Bahia,25-29,Homens,488631,3.46
+29,BA,Bahia,25-29,Mulheres,531314,3.76
+29,BA,Bahia,30-34,Homens,481158,3.4
+29,BA,Bahia,30-34,Mulheres,539089,3.81
+29,BA,Bahia,35-39,Homens,547701,3.87
+29,BA,Bahia,35-39,Mulheres,610098,4.31
+29,BA,Bahia,40-44,Homens,564611,3.99
+29,BA,Bahia,40-44,Mulheres,606677,4.29
+29,BA,Bahia,45-49,Homens,460627,3.26
+29,BA,Bahia,45-49,Mulheres,494650,3.5
+29,BA,Bahia,50-54,Homens,413199,2.92
+29,BA,Bahia,50-54,Mulheres,449687,3.18
+29,BA,Bahia,55-59,Homens,365921,2.59
+29,BA,Bahia,55-59,Mulheres,408260,2.89
+29,BA,Bahia,60-64,Homens,306809,2.17
+29,BA,Bahia,60-64,Mulheres,347171,2.45
+29,BA,Bahia,65-69,Homens,232648,1.65
+29,BA,Bahia,65-69,Mulheres,269431,1.91
+29,BA,Bahia,70-74,Homens,180917,1.28
+29,BA,Bahia,70-74,Mulheres,213774,1.51
+29,BA,Bahia,75-79,Homens,119737,0.85
+29,BA,Bahia,75-79,Mulheres,149474,1.06
+29,BA,Bahia,80-84,Homens,75197,0.53
+29,BA,Bahia,80-84,Mulheres,104431,0.74
+29,BA,Bahia,85-89,Homens,37893,0.27
+29,BA,Bahia,85-89,Mulheres,59661,0.42
+29,BA,Bahia,90+,Homens,24106,0.17
+29,BA,Bahia,90+,Mulheres,44800,0.32
+23,CE,Ceará,0-4,Homens,293555,3.34
+23,CE,Ceará,0-4,Mulheres,281264,3.2
+23,CE,Ceará,5-9,Homens,310685,3.53
+23,CE,Ceará,5-9,Mulheres,298066,3.39
+23,CE,Ceará,10-14,Homens,316649,3.6
+23,CE,Ceará,10-14,Mulheres,302097,3.43
+23,CE,Ceará,15-19,Homens,330312,3.76
+23,CE,Ceará,15-19,Mulheres,318147,3.62
+23,CE,Ceará,20-24,Homens,350680,3.99
+23,CE,Ceará,20-24,Mulheres,349473,3.97
+23,CE,Ceará,25-29,Homens,351085,3.99
+23,CE,Ceará,25-29,Mulheres,368061,4.18
+23,CE,Ceará,30-34,Homens,337919,3.84
+23,CE,Ceará,30-34,Mulheres,360985,4.1
+23,CE,Ceará,35-39,Homens,338012,3.84
+23,CE,Ceará,35-39,Mulheres,365279,4.15
+23,CE,Ceará,40-44,Homens,320894,3.65
+23,CE,Ceará,40-44,Mulheres,345680,3.93
+23,CE,Ceará,45-49,Homens,269507,3.06
+23,CE,Ceará,45-49,Mulheres,297014,3.38
+23,CE,Ceará,50-54,Homens,244270,2.78
+23,CE,Ceará,50-54,Mulheres,272939,3.1
+23,CE,Ceará,55-59,Homens,221760,2.52
+23,CE,Ceará,55-59,Mulheres,258640,2.94
+23,CE,Ceará,60-64,Homens,174769,1.99
+23,CE,Ceará,60-64,Mulheres,203092,2.31
+23,CE,Ceará,65-69,Homens,132795,1.51
+23,CE,Ceará,65-69,Mulheres,161713,1.84
+23,CE,Ceará,70-74,Homens,106993,1.22
+23,CE,Ceará,70-74,Mulheres,134402,1.53
+23,CE,Ceará,75-79,Homens,71286,0.81
+23,CE,Ceará,75-79,Mulheres,90837,1.03
+23,CE,Ceará,80-84,Homens,47945,0.55
+23,CE,Ceará,80-84,Mulheres,67232,0.76
+23,CE,Ceará,85-89,Homens,24272,0.28
+23,CE,Ceará,85-89,Mulheres,36164,0.41
+23,CE,Ceará,90+,Homens,14537,0.17
+23,CE,Ceará,90+,Mulheres,25945,0.29
+53,DF,Distrito Federal,0-4,Homens,83862,2.98
+53,DF,Distrito Federal,0-4,Mulheres,83233,2.95
+53,DF,Distrito Federal,5-9,Homens,93563,3.32
+53,DF,Distrito Federal,5-9,Mulheres,90515,3.21
+53,DF,Distrito Federal,10-14,Homens,92252,3.27
+53,DF,Distrito Federal,10-14,Mulheres,88839,3.15
+53,DF,Distrito Federal,15-19,Homens,105729,3.75
+53,DF,Distrito Federal,15-19,Mulheres,102507,3.64
+53,DF,Distrito Federal,20-24,Homens,115189,4.09
+53,DF,Distrito Federal,20-24,Mulheres,112057,3.98
+53,DF,Distrito Federal,25-29,Homens,111659,3.96
+53,DF,Distrito Federal,25-29,Mulheres,114374,4.06
+53,DF,Distrito Federal,30-34,Homens,107384,3.81
+53,DF,Distrito Federal,30-34,Mulheres,114640,4.07
+53,DF,Distrito Federal,35-39,Homens,111375,3.95
+53,DF,Distrito Federal,35-39,Mulheres,127022,4.51
+53,DF,Distrito Federal,40-44,Homens,119474,4.24
+53,DF,Distrito Federal,40-44,Mulheres,135477,4.81
+53,DF,Distrito Federal,45-49,Homens,96719,3.43
+53,DF,Distrito Federal,45-49,Mulheres,112889,4.01
+53,DF,Distrito Federal,50-54,Homens,83703,2.97
+53,DF,Distrito Federal,50-54,Mulheres,96715,3.43
+53,DF,Distrito Federal,55-59,Homens,67364,2.39
+53,DF,Distrito Federal,55-59,Mulheres,81225,2.88
+53,DF,Distrito Federal,60-64,Homens,50688,1.8
+53,DF,Distrito Federal,60-64,Mulheres,66573,2.36
+53,DF,Distrito Federal,65-69,Homens,39403,1.4
+53,DF,Distrito Federal,65-69,Mulheres,51753,1.84
+53,DF,Distrito Federal,70-74,Homens,27603,0.98
+53,DF,Distrito Federal,70-74,Mulheres,39342,1.4
+53,DF,Distrito Federal,75-79,Homens,17124,0.61
+53,DF,Distrito Federal,75-79,Mulheres,26159,0.93
+53,DF,Distrito Federal,80-84,Homens,11950,0.42
+53,DF,Distrito Federal,80-84,Mulheres,16925,0.6
+53,DF,Distrito Federal,85-89,Homens,5805,0.21
+53,DF,Distrito Federal,85-89,Mulheres,9363,0.33
+53,DF,Distrito Federal,90+,Homens,1940,0.07
+53,DF,Distrito Federal,90+,Mulheres,4988,0.18
+32,ES,Espírito Santo,0-4,Homens,122744,3.2
+32,ES,Espírito Santo,0-4,Mulheres,117377,3.06
+32,ES,Espírito Santo,5-9,Homens,129786,3.39
+32,ES,Espírito Santo,5-9,Mulheres,124728,3.25
+32,ES,Espírito Santo,10-14,Homens,125630,3.28
+32,ES,Espírito Santo,10-14,Mulheres,120378,3.14
+32,ES,Espírito Santo,15-19,Homens,129351,3.37
+32,ES,Espírito Santo,15-19,Mulheres,126362,3.3
+32,ES,Espírito Santo,20-24,Homens,139430,3.64
+32,ES,Espírito Santo,20-24,Mulheres,137291,3.58
+32,ES,Espírito Santo,25-29,Homens,138549,3.61
+32,ES,Espírito Santo,25-29,Mulheres,141055,3.68
+32,ES,Espírito Santo,30-34,Homens,142700,3.72
+32,ES,Espírito Santo,30-34,Mulheres,149430,3.9
+32,ES,Espírito Santo,35-39,Homens,152330,3.97
+32,ES,Espírito Santo,35-39,Mulheres,159792,4.17
+32,ES,Espírito Santo,40-44,Homens,153225,4
+32,ES,Espírito Santo,40-44,Mulheres,161427,4.21
+32,ES,Espírito Santo,45-49,Homens,126911,3.31
+32,ES,Espírito Santo,45-49,Mulheres,134495,3.51
+32,ES,Espírito Santo,50-54,Homens,116855,3.05
+32,ES,Espírito Santo,50-54,Mulheres,125102,3.26
+32,ES,Espírito Santo,55-59,Homens,106869,2.79
+32,ES,Espírito Santo,55-59,Mulheres,118840,3.1
+32,ES,Espírito Santo,60-64,Homens,93945,2.45
+32,ES,Espírito Santo,60-64,Mulheres,106392,2.78
+32,ES,Espírito Santo,65-69,Homens,75366,1.97
+32,ES,Espírito Santo,65-69,Mulheres,86671,2.26
+32,ES,Espírito Santo,70-74,Homens,50885,1.33
+32,ES,Espírito Santo,70-74,Mulheres,60375,1.57
+32,ES,Espírito Santo,75-79,Homens,31141,0.81
+32,ES,Espírito Santo,75-79,Mulheres,39968,1.04
+32,ES,Espírito Santo,80-84,Homens,18996,0.5
+32,ES,Espírito Santo,80-84,Mulheres,27621,0.72
+32,ES,Espírito Santo,85-89,Homens,10289,0.27
+32,ES,Espírito Santo,85-89,Mulheres,15727,0.41
+32,ES,Espírito Santo,90+,Homens,5060,0.13
+32,ES,Espírito Santo,90+,Mulheres,10617,0.28
+52,GO,Goiás,0-4,Homens,234482,3.32
+52,GO,Goiás,0-4,Mulheres,227213,3.22
+52,GO,Goiás,5-9,Homens,251221,3.56
+52,GO,Goiás,5-9,Mulheres,242515,3.44
+52,GO,Goiás,10-14,Homens,242376,3.43
+52,GO,Goiás,10-14,Mulheres,233152,3.3
+52,GO,Goiás,15-19,Homens,258949,3.67
+52,GO,Goiás,15-19,Mulheres,250267,3.55
+52,GO,Goiás,20-24,Homens,278817,3.95
+52,GO,Goiás,20-24,Mulheres,276314,3.92
+52,GO,Goiás,25-29,Homens,280722,3.98
+52,GO,Goiás,25-29,Mulheres,283319,4.02
+52,GO,Goiás,30-34,Homens,276210,3.91
+52,GO,Goiás,30-34,Mulheres,286315,4.06
+52,GO,Goiás,35-39,Homens,283009,4.01
+52,GO,Goiás,35-39,Mulheres,295533,4.19
+52,GO,Goiás,40-44,Homens,280902,3.98
+52,GO,Goiás,40-44,Mulheres,293926,4.17
+52,GO,Goiás,45-49,Homens,237740,3.37
+52,GO,Goiás,45-49,Mulheres,253055,3.59
+52,GO,Goiás,50-54,Homens,213217,3.02
+52,GO,Goiás,50-54,Mulheres,228713,3.24
+52,GO,Goiás,55-59,Homens,181939,2.58
+52,GO,Goiás,55-59,Mulheres,201818,2.86
+52,GO,Goiás,60-64,Homens,148756,2.11
+52,GO,Goiás,60-64,Mulheres,165842,2.35
+52,GO,Goiás,65-69,Homens,112240,1.59
+52,GO,Goiás,65-69,Mulheres,128018,1.81
+52,GO,Goiás,70-74,Homens,81199,1.15
+52,GO,Goiás,70-74,Mulheres,93369,1.32
+52,GO,Goiás,75-79,Homens,51439,0.73
+52,GO,Goiás,75-79,Mulheres,59712,0.85
+52,GO,Goiás,80-84,Homens,31410,0.45
+52,GO,Goiás,80-84,Mulheres,39122,0.55
+52,GO,Goiás,85-89,Homens,15010,0.21
+52,GO,Goiás,85-89,Mulheres,19967,0.28
+52,GO,Goiás,90+,Homens,7301,0.1
+52,GO,Goiás,90+,Mulheres,11385,0.16
+21,MA,Maranhão,0-4,Homens,262547,3.87
+21,MA,Maranhão,0-4,Mulheres,254499,3.76
+21,MA,Maranhão,5-9,Homens,279064,4.12
+21,MA,Maranhão,5-9,Mulheres,267743,3.95
+21,MA,Maranhão,10-14,Homens,296618,4.38
+21,MA,Maranhão,10-14,Mulheres,284514,4.2
+21,MA,Maranhão,15-19,Homens,311569,4.6
+21,MA,Maranhão,15-19,Mulheres,301956,4.46
+21,MA,Maranhão,20-24,Homens,285271,4.21
+21,MA,Maranhão,20-24,Mulheres,286962,4.23
+21,MA,Maranhão,25-29,Homens,252499,3.73
+21,MA,Maranhão,25-29,Mulheres,265278,3.91
+21,MA,Maranhão,30-34,Homens,251469,3.71
+21,MA,Maranhão,30-34,Mulheres,271172,4
+21,MA,Maranhão,35-39,Homens,262944,3.88
+21,MA,Maranhão,35-39,Mulheres,281596,4.16
+21,MA,Maranhão,40-44,Homens,241932,3.57
+21,MA,Maranhão,40-44,Mulheres,254037,3.75
+21,MA,Maranhão,45-49,Homens,193174,2.85
+21,MA,Maranhão,45-49,Mulheres,203212,3
+21,MA,Maranhão,50-54,Homens,165160,2.44
+21,MA,Maranhão,50-54,Mulheres,178140,2.63
+21,MA,Maranhão,55-59,Homens,141913,2.09
+21,MA,Maranhão,55-59,Mulheres,160920,2.37
+21,MA,Maranhão,60-64,Homens,118193,1.74
+21,MA,Maranhão,60-64,Mulheres,130765,1.93
+21,MA,Maranhão,65-69,Homens,93952,1.39
+21,MA,Maranhão,65-69,Mulheres,105011,1.55
+21,MA,Maranhão,70-74,Homens,70838,1.05
+21,MA,Maranhão,70-74,Mulheres,78539,1.16
+21,MA,Maranhão,75-79,Homens,47191,0.7
+21,MA,Maranhão,75-79,Mulheres,52434,0.77
+21,MA,Maranhão,80-84,Homens,30809,0.45
+21,MA,Maranhão,80-84,Mulheres,36894,0.54
+21,MA,Maranhão,85-89,Homens,15680,0.23
+21,MA,Maranhão,85-89,Mulheres,19832,0.29
+21,MA,Maranhão,90+,Homens,8600,0.13
+21,MA,Maranhão,90+,Mulheres,13773,0.2
+31,MG,Minas Gerais,0-4,Homens,604140,2.94
+31,MG,Minas Gerais,0-4,Mulheres,584978,2.85
+31,MG,Minas Gerais,5-9,Homens,639993,3.12
+31,MG,Minas Gerais,5-9,Mulheres,617129,3
+31,MG,Minas Gerais,10-14,Homens,644864,3.14
+31,MG,Minas Gerais,10-14,Mulheres,618141,3.01
+31,MG,Minas Gerais,15-19,Homens,692158,3.37
+31,MG,Minas Gerais,15-19,Mulheres,669211,3.26
+31,MG,Minas Gerais,20-24,Homens,766591,3.73
+31,MG,Minas Gerais,20-24,Mulheres,757354,3.69
+31,MG,Minas Gerais,25-29,Homens,763678,3.72
+31,MG,Minas Gerais,25-29,Mulheres,771364,3.76
+31,MG,Minas Gerais,30-34,Homens,758811,3.69
+31,MG,Minas Gerais,30-34,Mulheres,781188,3.8
+31,MG,Minas Gerais,35-39,Homens,776338,3.78
+31,MG,Minas Gerais,35-39,Mulheres,808363,3.94
+31,MG,Minas Gerais,40-44,Homens,796205,3.88
+31,MG,Minas Gerais,40-44,Mulheres,833552,4.06
+31,MG,Minas Gerais,45-49,Homens,674150,3.28
+31,MG,Minas Gerais,45-49,Mulheres,717672,3.49
+31,MG,Minas Gerais,50-54,Homens,642948,3.13
+31,MG,Minas Gerais,50-54,Mulheres,691120,3.36
+31,MG,Minas Gerais,55-59,Homens,597396,2.91
+31,MG,Minas Gerais,55-59,Mulheres,664626,3.24
+31,MG,Minas Gerais,60-64,Homens,527191,2.57
+31,MG,Minas Gerais,60-64,Mulheres,589915,2.87
+31,MG,Minas Gerais,65-69,Homens,418107,2.04
+31,MG,Minas Gerais,65-69,Mulheres,480447,2.34
+31,MG,Minas Gerais,70-74,Homens,302815,1.47
+31,MG,Minas Gerais,70-74,Mulheres,357829,1.74
+31,MG,Minas Gerais,75-79,Homens,195077,0.95
+31,MG,Minas Gerais,75-79,Mulheres,247886,1.21
+31,MG,Minas Gerais,80-84,Homens,121518,0.59
+31,MG,Minas Gerais,80-84,Mulheres,169922,0.83
+31,MG,Minas Gerais,85-89,Homens,62140,0.3
+31,MG,Minas Gerais,85-89,Mulheres,100014,0.49
+31,MG,Minas Gerais,90+,Homens,31587,0.15
+31,MG,Minas Gerais,90+,Mulheres,63569,0.31
+50,MS,Mato Grosso do Sul,0-4,Homens,102067,3.7
+50,MS,Mato Grosso do Sul,0-4,Mulheres,98127,3.56
+50,MS,Mato Grosso do Sul,5-9,Homens,105088,3.81
+50,MS,Mato Grosso do Sul,5-9,Mulheres,102042,3.7
+50,MS,Mato Grosso do Sul,10-14,Homens,102096,3.7
+50,MS,Mato Grosso do Sul,10-14,Mulheres,97846,3.55
+50,MS,Mato Grosso do Sul,15-19,Homens,101001,3.66
+50,MS,Mato Grosso do Sul,15-19,Mulheres,97253,3.53
+50,MS,Mato Grosso do Sul,20-24,Homens,102858,3.73
+50,MS,Mato Grosso do Sul,20-24,Mulheres,102631,3.72
+50,MS,Mato Grosso do Sul,25-29,Homens,107440,3.9
+50,MS,Mato Grosso do Sul,25-29,Mulheres,109090,3.96
+50,MS,Mato Grosso do Sul,30-34,Homens,104675,3.8
+50,MS,Mato Grosso do Sul,30-34,Mulheres,108473,3.93
+50,MS,Mato Grosso do Sul,35-39,Homens,105817,3.84
+50,MS,Mato Grosso do Sul,35-39,Mulheres,110170,4
+50,MS,Mato Grosso do Sul,40-44,Homens,102927,3.73
+50,MS,Mato Grosso do Sul,40-44,Mulheres,108095,3.92
+50,MS,Mato Grosso do Sul,45-49,Homens,87771,3.18
+50,MS,Mato Grosso do Sul,45-49,Mulheres,92671,3.36
+50,MS,Mato Grosso do Sul,50-54,Homens,81165,2.94
+50,MS,Mato Grosso do Sul,50-54,Mulheres,85277,3.09
+50,MS,Mato Grosso do Sul,55-59,Homens,71430,2.59
+50,MS,Mato Grosso do Sul,55-59,Mulheres,78414,2.84
+50,MS,Mato Grosso do Sul,60-64,Homens,60176,2.18
+50,MS,Mato Grosso do Sul,60-64,Mulheres,66448,2.41
+50,MS,Mato Grosso do Sul,65-69,Homens,45897,1.66
+50,MS,Mato Grosso do Sul,65-69,Mulheres,52709,1.91
+50,MS,Mato Grosso do Sul,70-74,Homens,32621,1.18
+50,MS,Mato Grosso do Sul,70-74,Mulheres,36588,1.33
+50,MS,Mato Grosso do Sul,75-79,Homens,20912,0.76
+50,MS,Mato Grosso do Sul,75-79,Mulheres,25164,0.91
+50,MS,Mato Grosso do Sul,80-84,Homens,12463,0.45
+50,MS,Mato Grosso do Sul,80-84,Mulheres,15242,0.55
+50,MS,Mato Grosso do Sul,85-89,Homens,6539,0.24
+50,MS,Mato Grosso do Sul,85-89,Mulheres,8797,0.32
+50,MS,Mato Grosso do Sul,90+,Homens,3572,0.13
+50,MS,Mato Grosso do Sul,90+,Mulheres,5460,0.2
+51,MT,Mato Grosso,0-4,Homens,142989,3.91
+51,MT,Mato Grosso,0-4,Mulheres,138368,3.78
+51,MT,Mato Grosso,5-9,Homens,144101,3.94
+51,MT,Mato Grosso,5-9,Mulheres,138801,3.79
+51,MT,Mato Grosso,10-14,Homens,135190,3.7
+51,MT,Mato Grosso,10-14,Mulheres,129177,3.53
+51,MT,Mato Grosso,15-19,Homens,137572,3.76
+51,MT,Mato Grosso,15-19,Mulheres,133049,3.64
+51,MT,Mato Grosso,20-24,Homens,146650,4.01
+51,MT,Mato Grosso,20-24,Mulheres,142711,3.9
+51,MT,Mato Grosso,25-29,Homens,152658,4.17
+51,MT,Mato Grosso,25-29,Mulheres,151424,4.14
+51,MT,Mato Grosso,30-34,Homens,149854,4.1
+51,MT,Mato Grosso,30-34,Mulheres,149725,4.09
+51,MT,Mato Grosso,35-39,Homens,152460,4.17
+51,MT,Mato Grosso,35-39,Mulheres,151458,4.14
+51,MT,Mato Grosso,40-44,Homens,144930,3.96
+51,MT,Mato Grosso,40-44,Mulheres,143479,3.92
+51,MT,Mato Grosso,45-49,Homens,121264,3.31
+51,MT,Mato Grosso,45-49,Mulheres,121225,3.31
+51,MT,Mato Grosso,50-54,Homens,107935,2.95
+51,MT,Mato Grosso,50-54,Mulheres,106990,2.92
+51,MT,Mato Grosso,55-59,Homens,92916,2.54
+51,MT,Mato Grosso,55-59,Mulheres,92269,2.52
+51,MT,Mato Grosso,60-64,Homens,74373,2.03
+51,MT,Mato Grosso,60-64,Mulheres,74210,2.03
+51,MT,Mato Grosso,65-69,Homens,54972,1.5
+51,MT,Mato Grosso,65-69,Mulheres,55606,1.52
+51,MT,Mato Grosso,70-74,Homens,37265,1.02
+51,MT,Mato Grosso,70-74,Mulheres,38188,1.04
+51,MT,Mato Grosso,75-79,Homens,23058,0.63
+51,MT,Mato Grosso,75-79,Mulheres,23956,0.65
+51,MT,Mato Grosso,80-84,Homens,13974,0.38
+51,MT,Mato Grosso,80-84,Mulheres,14929,0.41
+51,MT,Mato Grosso,85-89,Homens,5940,0.16
+51,MT,Mato Grosso,85-89,Mulheres,7505,0.21
+51,MT,Mato Grosso,90+,Homens,3140,0.09
+51,MT,Mato Grosso,90+,Mulheres,4334,0.12
+15,PA,Pará,0-4,Homens,321593,3.96
+15,PA,Pará,0-4,Mulheres,311079,3.83
+15,PA,Pará,5-9,Homens,341342,4.2
+15,PA,Pará,5-9,Mulheres,328971,4.05
+15,PA,Pará,10-14,Homens,353219,4.35
+15,PA,Pará,10-14,Mulheres,336762,4.15
+15,PA,Pará,15-19,Homens,368537,4.54
+15,PA,Pará,15-19,Mulheres,356985,4.4
+15,PA,Pará,20-24,Homens,356168,4.39
+15,PA,Pará,20-24,Mulheres,351136,4.32
+15,PA,Pará,25-29,Homens,328375,4.04
+15,PA,Pará,25-29,Mulheres,336397,4.14
+15,PA,Pará,30-34,Homens,313124,3.86
+15,PA,Pará,30-34,Mulheres,327603,4.03
+15,PA,Pará,35-39,Homens,319644,3.94
+15,PA,Pará,35-39,Mulheres,330790,4.07
+15,PA,Pará,40-44,Homens,300891,3.71
+15,PA,Pará,40-44,Mulheres,303386,3.74
+15,PA,Pará,45-49,Homens,245200,3.02
+15,PA,Pará,45-49,Mulheres,245223,3.02
+15,PA,Pará,50-54,Homens,210603,2.59
+15,PA,Pará,50-54,Mulheres,209684,2.58
+15,PA,Pará,55-59,Homens,171268,2.11
+15,PA,Pará,55-59,Mulheres,176107,2.17
+15,PA,Pará,60-64,Homens,142366,1.75
+15,PA,Pará,60-64,Mulheres,145077,1.79
+15,PA,Pará,65-69,Homens,108287,1.33
+15,PA,Pará,65-69,Mulheres,111983,1.38
+15,PA,Pará,70-74,Homens,75036,0.92
+15,PA,Pará,70-74,Mulheres,78570,0.97
+15,PA,Pará,75-79,Homens,47638,0.59
+15,PA,Pará,75-79,Mulheres,53400,0.66
+15,PA,Pará,80-84,Homens,28764,0.35
+15,PA,Pará,80-84,Mulheres,34441,0.42
+15,PA,Pará,85-89,Homens,12426,0.15
+15,PA,Pará,85-89,Mulheres,18851,0.23
+15,PA,Pará,90+,Homens,7334,0.09
+15,PA,Pará,90+,Mulheres,11874,0.15
+25,PB,Paraíba,0-4,Homens,134480,3.38
+25,PB,Paraíba,0-4,Mulheres,130370,3.28
+25,PB,Paraíba,5-9,Homens,141177,3.55
+25,PB,Paraíba,5-9,Mulheres,135229,3.4
+25,PB,Paraíba,10-14,Homens,146648,3.69
+25,PB,Paraíba,10-14,Mulheres,138396,3.48
+25,PB,Paraíba,15-19,Homens,151244,3.81
+25,PB,Paraíba,15-19,Mulheres,144495,3.64
+25,PB,Paraíba,20-24,Homens,151335,3.81
+25,PB,Paraíba,20-24,Mulheres,150193,3.78
+25,PB,Paraíba,25-29,Homens,144821,3.64
+25,PB,Paraíba,25-29,Mulheres,151080,3.8
+25,PB,Paraíba,30-34,Homens,142675,3.59
+25,PB,Paraíba,30-34,Mulheres,153413,3.86
+25,PB,Paraíba,35-39,Homens,150516,3.79
+25,PB,Paraíba,35-39,Mulheres,161789,4.07
+25,PB,Paraíba,40-44,Homens,147258,3.7
+25,PB,Paraíba,40-44,Mulheres,158692,3.99
+25,PB,Paraíba,45-49,Homens,126293,3.18
+25,PB,Paraíba,45-49,Mulheres,139006,3.5
+25,PB,Paraíba,50-54,Homens,112545,2.83
+25,PB,Paraíba,50-54,Mulheres,125854,3.17
+25,PB,Paraíba,55-59,Homens,102231,2.57
+25,PB,Paraíba,55-59,Mulheres,118442,2.98
+25,PB,Paraíba,60-64,Homens,80884,2.03
+25,PB,Paraíba,60-64,Mulheres,95622,2.41
+25,PB,Paraíba,65-69,Homens,62991,1.58
+25,PB,Paraíba,65-69,Mulheres,77915,1.96
+25,PB,Paraíba,70-74,Homens,50099,1.26
+25,PB,Paraíba,70-74,Mulheres,65030,1.64
+25,PB,Paraíba,75-79,Homens,33275,0.84
+25,PB,Paraíba,75-79,Mulheres,45851,1.15
+25,PB,Paraíba,80-84,Homens,22718,0.57
+25,PB,Paraíba,80-84,Mulheres,33689,0.85
+25,PB,Paraíba,85-89,Homens,11344,0.29
+25,PB,Paraíba,85-89,Mulheres,18792,0.47
+25,PB,Paraíba,90+,Homens,6321,0.16
+25,PB,Paraíba,90+,Mulheres,11972,0.3
+26,PE,Pernambuco,0-4,Homens,301680,3.33
+26,PE,Pernambuco,0-4,Mulheres,291815,3.22
+26,PE,Pernambuco,5-9,Homens,329654,3.64
+26,PE,Pernambuco,5-9,Mulheres,315990,3.49
+26,PE,Pernambuco,10-14,Homens,334730,3.7
+26,PE,Pernambuco,10-14,Mulheres,321040,3.54
+26,PE,Pernambuco,15-19,Homens,348104,3.84
+26,PE,Pernambuco,15-19,Mulheres,337284,3.72
+26,PE,Pernambuco,20-24,Homens,356162,3.93
+26,PE,Pernambuco,20-24,Mulheres,356777,3.94
+26,PE,Pernambuco,25-29,Homens,329682,3.64
+26,PE,Pernambuco,25-29,Mulheres,350370,3.87
+26,PE,Pernambuco,30-34,Homens,325829,3.6
+26,PE,Pernambuco,30-34,Mulheres,359367,3.97
+26,PE,Pernambuco,35-39,Homens,334260,3.69
+26,PE,Pernambuco,35-39,Mulheres,374935,4.14
+26,PE,Pernambuco,40-44,Homens,333411,3.68
+26,PE,Pernambuco,40-44,Mulheres,368509,4.07
+26,PE,Pernambuco,45-49,Homens,286867,3.17
+26,PE,Pernambuco,45-49,Mulheres,326044,3.6
+26,PE,Pernambuco,50-54,Homens,254215,2.81
+26,PE,Pernambuco,50-54,Mulheres,296536,3.27
+26,PE,Pernambuco,55-59,Homens,221697,2.45
+26,PE,Pernambuco,55-59,Mulheres,271029,2.99
+26,PE,Pernambuco,60-64,Homens,182957,2.02
+26,PE,Pernambuco,60-64,Mulheres,226293,2.5
+26,PE,Pernambuco,65-69,Homens,137214,1.51
+26,PE,Pernambuco,65-69,Mulheres,179530,1.98
+26,PE,Pernambuco,70-74,Homens,103845,1.15
+26,PE,Pernambuco,70-74,Mulheres,140569,1.55
+26,PE,Pernambuco,75-79,Homens,67479,0.74
+26,PE,Pernambuco,75-79,Mulheres,96375,1.06
+26,PE,Pernambuco,80-84,Homens,42449,0.47
+26,PE,Pernambuco,80-84,Mulheres,64814,0.72
+26,PE,Pernambuco,85-89,Homens,20384,0.23
+26,PE,Pernambuco,85-89,Mulheres,36501,0.4
+26,PE,Pernambuco,90+,Homens,10698,0.12
+26,PE,Pernambuco,90+,Mulheres,23832,0.26
+22,PI,Piauí,0-4,Homens,110299,3.37
+22,PI,Piauí,0-4,Mulheres,106260,3.25
+22,PI,Piauí,5-9,Homens,115267,3.52
+22,PI,Piauí,5-9,Mulheres,110719,3.38
+22,PI,Piauí,10-14,Homens,122961,3.76
+22,PI,Piauí,10-14,Mulheres,116846,3.57
+22,PI,Piauí,15-19,Homens,131822,4.03
+22,PI,Piauí,15-19,Mulheres,125433,3.83
+22,PI,Piauí,20-24,Homens,129741,3.97
+22,PI,Piauí,20-24,Mulheres,128959,3.94
+22,PI,Piauí,25-29,Homens,120105,3.67
+22,PI,Piauí,25-29,Mulheres,121883,3.73
+22,PI,Piauí,30-34,Homens,120229,3.68
+22,PI,Piauí,30-34,Mulheres,126701,3.87
+22,PI,Piauí,35-39,Homens,128170,3.92
+22,PI,Piauí,35-39,Mulheres,135453,4.14
+22,PI,Piauí,40-44,Homens,122279,3.74
+22,PI,Piauí,40-44,Mulheres,128575,3.93
+22,PI,Piauí,45-49,Homens,103420,3.16
+22,PI,Piauí,45-49,Mulheres,109697,3.35
+22,PI,Piauí,50-54,Homens,89754,2.74
+22,PI,Piauí,50-54,Mulheres,97469,2.98
+22,PI,Piauí,55-59,Homens,82036,2.51
+22,PI,Piauí,55-59,Mulheres,93268,2.85
+22,PI,Piauí,60-64,Homens,67492,2.06
+22,PI,Piauí,60-64,Mulheres,77479,2.37
+22,PI,Piauí,65-69,Homens,52722,1.61
+22,PI,Piauí,65-69,Mulheres,61482,1.88
+22,PI,Piauí,70-74,Homens,42736,1.31
+22,PI,Piauí,70-74,Mulheres,50650,1.55
+22,PI,Piauí,75-79,Homens,28481,0.87
+22,PI,Piauí,75-79,Mulheres,34146,1.04
+22,PI,Piauí,80-84,Homens,18322,0.56
+22,PI,Piauí,80-84,Mulheres,22749,0.7
+22,PI,Piauí,85-89,Homens,9108,0.28
+22,PI,Piauí,85-89,Mulheres,13944,0.43
+22,PI,Piauí,90+,Homens,5657,0.17
+22,PI,Piauí,90+,Mulheres,8884,0.27
+41,PR,Paraná,0-4,Homens,356047,3.11
+41,PR,Paraná,0-4,Mulheres,342216,2.99
+41,PR,Paraná,5-9,Homens,387689,3.39
+41,PR,Paraná,5-9,Mulheres,371394,3.25
+41,PR,Paraná,10-14,Homens,375579,3.28
+41,PR,Paraná,10-14,Mulheres,361435,3.16
+41,PR,Paraná,15-19,Homens,387280,3.38
+41,PR,Paraná,15-19,Mulheres,374090,3.27
+41,PR,Paraná,20-24,Homens,425661,3.72
+41,PR,Paraná,20-24,Mulheres,418681,3.66
+41,PR,Paraná,25-29,Homens,442675,3.87
+41,PR,Paraná,25-29,Mulheres,446207,3.9
+41,PR,Paraná,30-34,Homens,431036,3.77
+41,PR,Paraná,30-34,Mulheres,441982,3.86
+41,PR,Paraná,35-39,Homens,426853,3.73
+41,PR,Paraná,35-39,Mulheres,445510,3.89
+41,PR,Paraná,40-44,Homens,423706,3.7
+41,PR,Paraná,40-44,Mulheres,447335,3.91
+41,PR,Paraná,45-49,Homens,376158,3.29
+41,PR,Paraná,45-49,Mulheres,401750,3.51
+41,PR,Paraná,50-54,Homens,363485,3.18
+41,PR,Paraná,50-54,Mulheres,395475,3.46
+41,PR,Paraná,55-59,Homens,329790,2.88
+41,PR,Paraná,55-59,Mulheres,372490,3.25
+41,PR,Paraná,60-64,Homens,274622,2.4
+41,PR,Paraná,60-64,Mulheres,320274,2.8
+41,PR,Paraná,65-69,Homens,219200,1.92
+41,PR,Paraná,65-69,Mulheres,259276,2.27
+41,PR,Paraná,70-74,Homens,156781,1.37
+41,PR,Paraná,70-74,Mulheres,190253,1.66
+41,PR,Paraná,75-79,Homens,100773,0.88
+41,PR,Paraná,75-79,Mulheres,129709,1.13
+41,PR,Paraná,80-84,Homens,59270,0.52
+41,PR,Paraná,80-84,Mulheres,79497,0.69
+41,PR,Paraná,85-89,Homens,28296,0.25
+41,PR,Paraná,85-89,Mulheres,45180,0.39
+41,PR,Paraná,90+,Homens,12449,0.11
+41,PR,Paraná,90+,Mulheres,24275,0.21
+33,RJ,Rio de Janeiro,0-4,Homens,447807,2.79
+33,RJ,Rio de Janeiro,0-4,Mulheres,435421,2.71
+33,RJ,Rio de Janeiro,5-9,Homens,516669,3.22
+33,RJ,Rio de Janeiro,5-9,Mulheres,502005,3.13
+33,RJ,Rio de Janeiro,10-14,Homens,495130,3.08
+33,RJ,Rio de Janeiro,10-14,Mulheres,469484,2.92
+33,RJ,Rio de Janeiro,15-19,Homens,513222,3.2
+33,RJ,Rio de Janeiro,15-19,Mulheres,497535,3.1
+33,RJ,Rio de Janeiro,20-24,Homens,567507,3.53
+33,RJ,Rio de Janeiro,20-24,Mulheres,576319,3.59
+33,RJ,Rio de Janeiro,25-29,Homens,559183,3.48
+33,RJ,Rio de Janeiro,25-29,Mulheres,597316,3.72
+33,RJ,Rio de Janeiro,30-34,Homens,552563,3.44
+33,RJ,Rio de Janeiro,30-34,Mulheres,606111,3.78
+33,RJ,Rio de Janeiro,35-39,Homens,573725,3.57
+33,RJ,Rio de Janeiro,35-39,Mulheres,641954,4
+33,RJ,Rio de Janeiro,40-44,Homens,610826,3.8
+33,RJ,Rio de Janeiro,40-44,Mulheres,678594,4.23
+33,RJ,Rio de Janeiro,45-49,Homens,521274,3.25
+33,RJ,Rio de Janeiro,45-49,Mulheres,588126,3.66
+33,RJ,Rio de Janeiro,50-54,Homens,492511,3.07
+33,RJ,Rio de Janeiro,50-54,Mulheres,564677,3.52
+33,RJ,Rio de Janeiro,55-59,Homens,460505,2.87
+33,RJ,Rio de Janeiro,55-59,Mulheres,549178,3.42
+33,RJ,Rio de Janeiro,60-64,Homens,414751,2.58
+33,RJ,Rio de Janeiro,60-64,Mulheres,510123,3.18
+33,RJ,Rio de Janeiro,65-69,Homens,328567,2.05
+33,RJ,Rio de Janeiro,65-69,Mulheres,432252,2.69
+33,RJ,Rio de Janeiro,70-74,Homens,235838,1.47
+33,RJ,Rio de Janeiro,70-74,Mulheres,325308,2.03
+33,RJ,Rio de Janeiro,75-79,Homens,140467,0.87
+33,RJ,Rio de Janeiro,75-79,Mulheres,214966,1.34
+33,RJ,Rio de Janeiro,80-84,Homens,84578,0.53
+33,RJ,Rio de Janeiro,80-84,Mulheres,146519,0.91
+33,RJ,Rio de Janeiro,85-89,Homens,43115,0.27
+33,RJ,Rio de Janeiro,85-89,Mulheres,86830,0.54
+33,RJ,Rio de Janeiro,90+,Homens,19437,0.12
+33,RJ,Rio de Janeiro,90+,Mulheres,54784,0.34
+24,RN,Rio Grande do Norte,0-4,Homens,105039,3.18
+24,RN,Rio Grande do Norte,0-4,Mulheres,100477,3.04
+24,RN,Rio Grande do Norte,5-9,Homens,112689,3.41
+24,RN,Rio Grande do Norte,5-9,Mulheres,108213,3.28
+24,RN,Rio Grande do Norte,10-14,Homens,116834,3.54
+24,RN,Rio Grande do Norte,10-14,Mulheres,112772,3.41
+24,RN,Rio Grande do Norte,15-19,Homens,124546,3.77
+24,RN,Rio Grande do Norte,15-19,Mulheres,118695,3.59
+24,RN,Rio Grande do Norte,20-24,Homens,128423,3.89
+24,RN,Rio Grande do Norte,20-24,Mulheres,127375,3.86
+24,RN,Rio Grande do Norte,25-29,Homens,125949,3.81
+24,RN,Rio Grande do Norte,25-29,Mulheres,130351,3.95
+24,RN,Rio Grande do Norte,30-34,Homens,123336,3.73
+24,RN,Rio Grande do Norte,30-34,Mulheres,132442,4.01
+24,RN,Rio Grande do Norte,35-39,Homens,130084,3.94
+24,RN,Rio Grande do Norte,35-39,Mulheres,139193,4.21
+24,RN,Rio Grande do Norte,40-44,Homens,123714,3.75
+24,RN,Rio Grande do Norte,40-44,Mulheres,133119,4.03
+24,RN,Rio Grande do Norte,45-49,Homens,104354,3.16
+24,RN,Rio Grande do Norte,45-49,Mulheres,114196,3.46
+24,RN,Rio Grande do Norte,50-54,Homens,96315,2.92
+24,RN,Rio Grande do Norte,50-54,Mulheres,106262,3.22
+24,RN,Rio Grande do Norte,55-59,Homens,88112,2.67
+24,RN,Rio Grande do Norte,55-59,Mulheres,103004,3.12
+24,RN,Rio Grande do Norte,60-64,Homens,69803,2.11
+24,RN,Rio Grande do Norte,60-64,Mulheres,80183,2.43
+24,RN,Rio Grande do Norte,65-69,Homens,51124,1.55
+24,RN,Rio Grande do Norte,65-69,Mulheres,62227,1.88
+24,RN,Rio Grande do Norte,70-74,Homens,39699,1.2
+24,RN,Rio Grande do Norte,70-74,Mulheres,50433,1.53
+24,RN,Rio Grande do Norte,75-79,Homens,26527,0.8
+24,RN,Rio Grande do Norte,75-79,Mulheres,35115,1.06
+24,RN,Rio Grande do Norte,80-84,Homens,18206,0.55
+24,RN,Rio Grande do Norte,80-84,Mulheres,25615,0.78
+24,RN,Rio Grande do Norte,85-89,Homens,9008,0.27
+24,RN,Rio Grande do Norte,85-89,Mulheres,14038,0.43
+24,RN,Rio Grande do Norte,90+,Homens,4999,0.15
+24,RN,Rio Grande do Norte,90+,Mulheres,10256,0.31
+11,RO,Rondônia,0-4,Homens,57868,3.66
+11,RO,Rondônia,0-4,Mulheres,55371,3.5
+11,RO,Rondônia,5-9,Homens,59857,3.79
+11,RO,Rondônia,5-9,Mulheres,57914,3.66
+11,RO,Rondônia,10-14,Homens,59956,3.79
+11,RO,Rondônia,10-14,Mulheres,57291,3.62
+11,RO,Rondônia,15-19,Homens,61510,3.89
+11,RO,Rondônia,15-19,Mulheres,59953,3.79
+11,RO,Rondônia,20-24,Homens,61961,3.92
+11,RO,Rondônia,20-24,Mulheres,62093,3.93
+11,RO,Rondônia,25-29,Homens,62234,3.94
+11,RO,Rondônia,25-29,Mulheres,64445,4.08
+11,RO,Rondônia,30-34,Homens,61464,3.89
+11,RO,Rondônia,30-34,Mulheres,63049,3.99
+11,RO,Rondônia,35-39,Homens,62035,3.92
+11,RO,Rondônia,35-39,Mulheres,66316,4.19
+11,RO,Rondônia,40-44,Homens,60844,3.85
+11,RO,Rondônia,40-44,Mulheres,63701,4.03
+11,RO,Rondônia,45-49,Homens,51950,3.29
+11,RO,Rondônia,45-49,Mulheres,53875,3.41
+11,RO,Rondônia,50-54,Homens,47776,3.02
+11,RO,Rondônia,50-54,Mulheres,48263,3.05
+11,RO,Rondônia,55-59,Homens,42615,2.7
+11,RO,Rondônia,55-59,Mulheres,42182,2.67
+11,RO,Rondônia,60-64,Homens,34215,2.16
+11,RO,Rondônia,60-64,Mulheres,34535,2.18
+11,RO,Rondônia,65-69,Homens,25164,1.59
+11,RO,Rondônia,65-69,Mulheres,24892,1.57
+11,RO,Rondônia,70-74,Homens,16862,1.07
+11,RO,Rondônia,70-74,Mulheres,16960,1.07
+11,RO,Rondônia,75-79,Homens,10278,0.65
+11,RO,Rondônia,75-79,Mulheres,10782,0.68
+11,RO,Rondônia,80-84,Homens,6735,0.43
+11,RO,Rondônia,80-84,Mulheres,6532,0.41
+11,RO,Rondônia,85-89,Homens,3002,0.19
+11,RO,Rondônia,85-89,Mulheres,3581,0.23
+11,RO,Rondônia,90+,Homens,1661,0.11
+11,RO,Rondônia,90+,Mulheres,1475,0.09
+14,RR,Roraima,0-4,Homens,32997,5.18
+14,RR,Roraima,0-4,Mulheres,31829,5
+14,RR,Roraima,5-9,Homens,32460,5.1
+14,RR,Roraima,5-9,Mulheres,30837,4.84
+14,RR,Roraima,10-14,Homens,30013,4.71
+14,RR,Roraima,10-14,Mulheres,28232,4.43
+14,RR,Roraima,15-19,Homens,28935,4.54
+14,RR,Roraima,15-19,Mulheres,27823,4.37
+14,RR,Roraima,20-24,Homens,29300,4.6
+14,RR,Roraima,20-24,Mulheres,29213,4.59
+14,RR,Roraima,25-29,Homens,27699,4.35
+14,RR,Roraima,25-29,Mulheres,28275,4.44
+14,RR,Roraima,30-34,Homens,24757,3.89
+14,RR,Roraima,30-34,Mulheres,25185,3.96
+14,RR,Roraima,35-39,Homens,24303,3.82
+14,RR,Roraima,35-39,Mulheres,24659,3.87
+14,RR,Roraima,40-44,Homens,21397,3.36
+14,RR,Roraima,40-44,Mulheres,22077,3.47
+14,RR,Roraima,45-49,Homens,16710,2.62
+14,RR,Roraima,45-49,Mulheres,17673,2.78
+14,RR,Roraima,50-54,Homens,14316,2.25
+14,RR,Roraima,50-54,Mulheres,14012,2.2
+14,RR,Roraima,55-59,Homens,11950,1.88
+14,RR,Roraima,55-59,Mulheres,11754,1.85
+14,RR,Roraima,60-64,Homens,9096,1.43
+14,RR,Roraima,60-64,Mulheres,8923,1.4
+14,RR,Roraima,65-69,Homens,6865,1.08
+14,RR,Roraima,65-69,Mulheres,6537,1.03
+14,RR,Roraima,70-74,Homens,4612,0.72
+14,RR,Roraima,70-74,Mulheres,4109,0.65
+14,RR,Roraima,75-79,Homens,2606,0.41
+14,RR,Roraima,75-79,Mulheres,2375,0.37
+14,RR,Roraima,80-84,Homens,1361,0.21
+14,RR,Roraima,80-84,Mulheres,1579,0.25
+14,RR,Roraima,85-89,Homens,699,0.11
+14,RR,Roraima,85-89,Mulheres,793,0.12
+14,RR,Roraima,90+,Homens,315,0.05
+14,RR,Roraima,90+,Mulheres,432,0.07
+43,RS,Rio Grande do Sul,0-4,Homens,309999,2.85
+43,RS,Rio Grande do Sul,0-4,Mulheres,298553,2.74
+43,RS,Rio Grande do Sul,5-9,Homens,341270,3.14
+43,RS,Rio Grande do Sul,5-9,Mulheres,325045,2.99
+43,RS,Rio Grande do Sul,10-14,Homens,322846,2.97
+43,RS,Rio Grande do Sul,10-14,Mulheres,308918,2.84
+43,RS,Rio Grande do Sul,15-19,Homens,340242,3.13
+43,RS,Rio Grande do Sul,15-19,Mulheres,329117,3.02
+43,RS,Rio Grande do Sul,20-24,Homens,379507,3.49
+43,RS,Rio Grande do Sul,20-24,Mulheres,375719,3.45
+43,RS,Rio Grande do Sul,25-29,Homens,387084,3.56
+43,RS,Rio Grande do Sul,25-29,Mulheres,396311,3.64
+43,RS,Rio Grande do Sul,30-34,Homens,386640,3.55
+43,RS,Rio Grande do Sul,30-34,Mulheres,402122,3.69
+43,RS,Rio Grande do Sul,35-39,Homens,403061,3.7
+43,RS,Rio Grande do Sul,35-39,Mulheres,421457,3.87
+43,RS,Rio Grande do Sul,40-44,Homens,400776,3.68
+43,RS,Rio Grande do Sul,40-44,Mulheres,423595,3.89
+43,RS,Rio Grande do Sul,45-49,Homens,343558,3.16
+43,RS,Rio Grande do Sul,45-49,Mulheres,366600,3.37
+43,RS,Rio Grande do Sul,50-54,Homens,335738,3.08
+43,RS,Rio Grande do Sul,50-54,Mulheres,366427,3.37
+43,RS,Rio Grande do Sul,55-59,Homens,341654,3.14
+43,RS,Rio Grande do Sul,55-59,Mulheres,381392,3.5
+43,RS,Rio Grande do Sul,60-64,Homens,308459,2.83
+43,RS,Rio Grande do Sul,60-64,Mulheres,351942,3.23
+43,RS,Rio Grande do Sul,65-69,Homens,249201,2.29
+43,RS,Rio Grande do Sul,65-69,Mulheres,296023,2.72
+43,RS,Rio Grande do Sul,70-74,Homens,182863,1.68
+43,RS,Rio Grande do Sul,70-74,Mulheres,228254,2.1
+43,RS,Rio Grande do Sul,75-79,Homens,114806,1.05
+43,RS,Rio Grande do Sul,75-79,Mulheres,157596,1.45
+43,RS,Rio Grande do Sul,80-84,Homens,63726,0.59
+43,RS,Rio Grande do Sul,80-84,Mulheres,103745,0.95
+43,RS,Rio Grande do Sul,85-89,Homens,30860,0.28
+43,RS,Rio Grande do Sul,85-89,Mulheres,60298,0.55
+43,RS,Rio Grande do Sul,90+,Homens,13461,0.12
+43,RS,Rio Grande do Sul,90+,Mulheres,34101,0.31
+42,SC,Santa Catarina,0-4,Homens,239462,3.15
+42,SC,Santa Catarina,0-4,Mulheres,228768,3.01
+42,SC,Santa Catarina,5-9,Homens,251009,3.3
+42,SC,Santa Catarina,5-9,Mulheres,239098,3.14
+42,SC,Santa Catarina,10-14,Homens,237628,3.12
+42,SC,Santa Catarina,10-14,Mulheres,227143,2.98
+42,SC,Santa Catarina,15-19,Homens,245913,3.23
+42,SC,Santa Catarina,15-19,Mulheres,236301,3.1
+42,SC,Santa Catarina,20-24,Homens,292282,3.84
+42,SC,Santa Catarina,20-24,Mulheres,282201,3.71
+42,SC,Santa Catarina,25-29,Homens,311998,4.1
+42,SC,Santa Catarina,25-29,Mulheres,309679,4.07
+42,SC,Santa Catarina,30-34,Homens,317619,4.17
+42,SC,Santa Catarina,30-34,Mulheres,316322,4.16
+42,SC,Santa Catarina,35-39,Homens,315032,4.14
+42,SC,Santa Catarina,35-39,Mulheres,318540,4.19
+42,SC,Santa Catarina,40-44,Homens,302558,3.98
+42,SC,Santa Catarina,40-44,Mulheres,305100,4.01
+42,SC,Santa Catarina,45-49,Homens,247625,3.25
+42,SC,Santa Catarina,45-49,Mulheres,257898,3.39
+42,SC,Santa Catarina,50-54,Homens,233592,3.07
+42,SC,Santa Catarina,50-54,Mulheres,247438,3.25
+42,SC,Santa Catarina,55-59,Homens,218838,2.88
+42,SC,Santa Catarina,55-59,Mulheres,238842,3.14
+42,SC,Santa Catarina,60-64,Homens,185117,2.43
+42,SC,Santa Catarina,60-64,Mulheres,206002,2.71
+42,SC,Santa Catarina,65-69,Homens,138889,1.82
+42,SC,Santa Catarina,65-69,Mulheres,160255,2.11
+42,SC,Santa Catarina,70-74,Homens,100626,1.32
+42,SC,Santa Catarina,70-74,Mulheres,119281,1.57
+42,SC,Santa Catarina,75-79,Homens,59047,0.78
+42,SC,Santa Catarina,75-79,Mulheres,76642,1.01
+42,SC,Santa Catarina,80-84,Homens,33330,0.44
+42,SC,Santa Catarina,80-84,Mulheres,47882,0.63
+42,SC,Santa Catarina,85-89,Homens,14218,0.19
+42,SC,Santa Catarina,85-89,Mulheres,27482,0.36
+42,SC,Santa Catarina,90+,Homens,6319,0.08
+42,SC,Santa Catarina,90+,Mulheres,14386,0.19
+28,SE,Sergipe,0-4,Homens,75626,3.42
+28,SE,Sergipe,0-4,Mulheres,72762,3.29
+28,SE,Sergipe,5-9,Homens,80441,3.64
+28,SE,Sergipe,5-9,Mulheres,76603,3.47
+28,SE,Sergipe,10-14,Homens,84567,3.83
+28,SE,Sergipe,10-14,Mulheres,80869,3.66
+28,SE,Sergipe,15-19,Homens,87813,3.97
+28,SE,Sergipe,15-19,Mulheres,84965,3.84
+28,SE,Sergipe,20-24,Homens,87869,3.98
+28,SE,Sergipe,20-24,Mulheres,90779,4.11
+28,SE,Sergipe,25-29,Homens,83516,3.78
+28,SE,Sergipe,25-29,Mulheres,91120,4.12
+28,SE,Sergipe,30-34,Homens,79885,3.61
+28,SE,Sergipe,30-34,Mulheres,89891,4.07
+28,SE,Sergipe,35-39,Homens,82830,3.75
+28,SE,Sergipe,35-39,Mulheres,94394,4.27
+28,SE,Sergipe,40-44,Homens,82337,3.73
+28,SE,Sergipe,40-44,Mulheres,92986,4.21
+28,SE,Sergipe,45-49,Homens,68432,3.1
+28,SE,Sergipe,45-49,Mulheres,78265,3.54
+28,SE,Sergipe,50-54,Homens,62506,2.83
+28,SE,Sergipe,50-54,Mulheres,71332,3.23
+28,SE,Sergipe,55-59,Homens,53361,2.41
+28,SE,Sergipe,55-59,Mulheres,62992,2.85
+28,SE,Sergipe,60-64,Homens,42256,1.91
+28,SE,Sergipe,60-64,Mulheres,49932,2.26
+28,SE,Sergipe,65-69,Homens,31723,1.44
+28,SE,Sergipe,65-69,Mulheres,38636,1.75
+28,SE,Sergipe,70-74,Homens,23310,1.05
+28,SE,Sergipe,70-74,Mulheres,29849,1.35
+28,SE,Sergipe,75-79,Homens,15363,0.7
+28,SE,Sergipe,75-79,Mulheres,20115,0.91
+28,SE,Sergipe,80-84,Homens,8970,0.41
+28,SE,Sergipe,80-84,Mulheres,13808,0.62
+28,SE,Sergipe,85-89,Homens,4376,0.2
+28,SE,Sergipe,85-89,Mulheres,7556,0.34
+28,SE,Sergipe,90+,Homens,2626,0.12
+28,SE,Sergipe,90+,Mulheres,5341,0.24
+35,SP,São Paulo,0-4,Homens,1257922,2.83
+35,SP,São Paulo,0-4,Mulheres,1212299,2.73
+35,SP,São Paulo,5-9,Homens,1415635,3.19
+35,SP,São Paulo,5-9,Mulheres,1361398,3.07
+35,SP,São Paulo,10-14,Homens,1396920,3.15
+35,SP,São Paulo,10-14,Mulheres,1330803,3
+35,SP,São Paulo,15-19,Homens,1455973,3.28
+35,SP,São Paulo,15-19,Mulheres,1393858,3.14
+35,SP,São Paulo,20-24,Homens,1625042,3.66
+35,SP,São Paulo,20-24,Mulheres,1577373,3.55
+35,SP,São Paulo,25-29,Homens,1643277,3.7
+35,SP,São Paulo,25-29,Mulheres,1651310,3.72
+35,SP,São Paulo,30-34,Homens,1672722,3.77
+35,SP,São Paulo,30-34,Mulheres,1729139,3.89
+35,SP,São Paulo,35-39,Homens,1760641,3.96
+35,SP,São Paulo,35-39,Mulheres,1865763,4.2
+35,SP,São Paulo,40-44,Homens,1761061,3.97
+35,SP,São Paulo,40-44,Mulheres,1898478,4.27
+35,SP,São Paulo,45-49,Homens,1484078,3.34
+35,SP,São Paulo,45-49,Mulheres,1635658,3.68
+35,SP,São Paulo,50-54,Homens,1376616,3.1
+35,SP,São Paulo,50-54,Mulheres,1534240,3.45
+35,SP,São Paulo,55-59,Homens,1231915,2.77
+35,SP,São Paulo,55-59,Mulheres,1436156,3.23
+35,SP,São Paulo,60-64,Homens,1074402,2.42
+35,SP,São Paulo,60-64,Mulheres,1302470,2.93
+35,SP,São Paulo,65-69,Homens,852968,1.92
+35,SP,São Paulo,65-69,Mulheres,1061504,2.39
+35,SP,São Paulo,70-74,Homens,612271,1.38
+35,SP,São Paulo,70-74,Mulheres,801070,1.8
+35,SP,São Paulo,75-79,Homens,382345,0.86
+35,SP,São Paulo,75-79,Mulheres,538354,1.21
+35,SP,São Paulo,80-84,Homens,229952,0.52
+35,SP,São Paulo,80-84,Mulheres,355654,0.8
+35,SP,São Paulo,85-89,Homens,110341,0.25
+35,SP,São Paulo,85-89,Mulheres,206259,0.46
+35,SP,São Paulo,90+,Homens,52295,0.12
+35,SP,São Paulo,90+,Mulheres,123075,0.28
+17,TO,Tocantins,0-4,Homens,58654,3.88
+17,TO,Tocantins,0-4,Mulheres,55829,3.69
+17,TO,Tocantins,5-9,Homens,60003,3.97
+17,TO,Tocantins,5-9,Mulheres,58010,3.84
+17,TO,Tocantins,10-14,Homens,60825,4.02
+17,TO,Tocantins,10-14,Mulheres,58134,3.85
+17,TO,Tocantins,15-19,Homens,62903,4.16
+17,TO,Tocantins,15-19,Mulheres,61882,4.09
+17,TO,Tocantins,20-24,Homens,62033,4.1
+17,TO,Tocantins,20-24,Mulheres,61542,4.07
+17,TO,Tocantins,25-29,Homens,57828,3.83
+17,TO,Tocantins,25-29,Mulheres,59569,3.94
+17,TO,Tocantins,30-34,Homens,56287,3.72
+17,TO,Tocantins,30-34,Mulheres,58847,3.89
+17,TO,Tocantins,35-39,Homens,58398,3.86
+17,TO,Tocantins,35-39,Mulheres,60642,4.01
+17,TO,Tocantins,40-44,Homens,57098,3.78
+17,TO,Tocantins,40-44,Mulheres,58311,3.86
+17,TO,Tocantins,45-49,Homens,49248,3.26
+17,TO,Tocantins,45-49,Mulheres,49099,3.25
+17,TO,Tocantins,50-54,Homens,41860,2.77
+17,TO,Tocantins,50-54,Mulheres,41642,2.76
+17,TO,Tocantins,55-59,Homens,36530,2.42
+17,TO,Tocantins,55-59,Mulheres,36680,2.43
+17,TO,Tocantins,60-64,Homens,29446,1.95
+17,TO,Tocantins,60-64,Mulheres,29290,1.94
+17,TO,Tocantins,65-69,Homens,23225,1.54
+17,TO,Tocantins,65-69,Mulheres,22785,1.51
+17,TO,Tocantins,70-74,Homens,17561,1.16
+17,TO,Tocantins,70-74,Mulheres,16585,1.1
+17,TO,Tocantins,75-79,Homens,11572,0.77
+17,TO,Tocantins,75-79,Mulheres,11325,0.75
+17,TO,Tocantins,80-84,Homens,7732,0.51
+17,TO,Tocantins,80-84,Mulheres,7636,0.51
+17,TO,Tocantins,85-89,Homens,3855,0.26
+17,TO,Tocantins,85-89,Mulheres,3938,0.26
+17,TO,Tocantins,90+,Homens,2209,0.15
+17,TO,Tocantins,90+,Mulheres,2445,0.16

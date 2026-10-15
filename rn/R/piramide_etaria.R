@@ -1,6 +1,6 @@
 # Passo 2 — Pirâmide etária do Rio Grande do Norte (Censo 2022)
 #
-# Usa a base gerada por R/filtrar_rn.R. Rode aquele script antes.
+# Usa a base gerada por rn/R/filtrar_rn.R. Rode aquele script antes.
 # Grupos de 5 anos até 90+, em % da população total do estado.
 
 install.packages(c("censobr", "tidyverse"))
@@ -8,7 +8,7 @@ install.packages(c("censobr", "tidyverse"))
 library(censobr)
 library(tidyverse)
 
-pessoas_rn <- read_rds("dados_rn/pessoas_rn.rds")
+pessoas_rn <- read_rds("rn/dados_rn/pessoas_rn.rds")
 
 
 # Grupos de idade ----------------------------------------------------------
@@ -97,6 +97,6 @@ grafico <- ggplot(dados_grafico, aes(x = valor, y = grupo_idade, fill = sexo)) +
 grafico
 
 # Pasta só para os gráficos do projeto.
-dir.create("graficos", showWarnings = FALSE)
-ggsave("graficos/piramide_etaria_rn.png", grafico,
+dir.create("rn/graficos", showWarnings = FALSE)
+ggsave("rn/graficos/piramide_etaria_rn.png", grafico,
        width = 9, height = 8, dpi = 300, bg = "white")

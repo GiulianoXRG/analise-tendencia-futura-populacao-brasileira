@@ -1,6 +1,6 @@
 # Passo 3 — Razões de dependência e índice de envelhecimento do RN (Censo 2022)
 #
-# Usa a base gerada por R/filtrar_rn.R. Rode aquele script antes.
+# Usa a base gerada por rn/R/filtrar_rn.R. Rode aquele script antes.
 #
 # Grandes grupos etários (convenção usual, também adotada pelo IBGE):
 #   jovens = 0 a 14 anos | idade ativa = 15 a 64 anos | idosos = 65 anos ou mais
@@ -16,7 +16,7 @@ install.packages(c("censobr", "tidyverse"))
 library(censobr)
 library(tidyverse)
 
-pessoas_rn <- read_rds("dados_rn/pessoas_rn.rds")
+pessoas_rn <- read_rds("rn/dados_rn/pessoas_rn.rds")
 
 
 # Grandes grupos etários ---------------------------------------------------
