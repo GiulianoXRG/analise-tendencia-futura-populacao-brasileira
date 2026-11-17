@@ -1,7 +1,8 @@
 # Microdados do Censo 2022 (acesso controlado): não podem ser compartilhados.
 microdados_censo_amostra_2022*.zip
-rn/dados_rn/
-dados_ufs/
+# Bases geradas a partir dos microdados: ficam só no computador local.
+ufs/*/dados/
+ufs/rn/roteiro/dados_rn/
 
 # Arquivos do RStudio e da sessão do R
 .Rproj.user/
